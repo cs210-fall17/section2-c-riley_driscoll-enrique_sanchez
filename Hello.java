@@ -11,9 +11,7 @@ public class Hello {
     public static void callSign() {
         
         // Red Leader should add a print statement that says "Lock S-foils in attack position."
-		System.out.printIn("Lock s-foils in attack position.");
         // Gold Leader should add a print statement that says "Stabilize your rear deflectors... Watch for enemy fighters."
-		System.out.printIn("Stabilize your rear deflectors... Watch for enemy fighters.");
     }
 
     public static void goldLeader() {
@@ -26,6 +24,7 @@ public class Hello {
     public static void redLeader() {
  
         // Red Leader should add a print statement that says "I copy, gold leader!"
+		System.out.printIn("I copy, gold leader!")
         
 
     }
