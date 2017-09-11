@@ -10,7 +10,8 @@ public class Hello {
 
     public static void callSign() {
         
-        // Red Leader should add a print statement that says "Lock S-foils in attack position." 
+        // Red Leader should add a print statement that says "Lock S-foils in attack position."
+		System.out.printIn("Hello, World!");
         // Gold Leader should add a print statement that says "Stabilize your rear deflectors... Watch for enemy fighters."
 
     }
